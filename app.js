@@ -10,7 +10,6 @@ if (hour < 18) {
   greeting = "Good evening";
 }
 
-
 if (condition1) {
   //  block of code to be executed if condition1 is true
 } else if (condition2) {
